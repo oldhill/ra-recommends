@@ -3,6 +3,8 @@ ra-recommends
 
 Resident Advisor recommended music
 
+An analogous project is live at [oldhillcode.com/pitchfork.html](http://oldhillcode.com/pitchfork.html)
+
 work in progress!
 =================
 
