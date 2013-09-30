@@ -3,7 +3,7 @@ ra-recommends
 
 Resident Advisor recommended music
 
-Running live at [oldhillcode.com/music.html](http://oldhillcode.com/music.html)
+Sample project at [oldhillcode.com/music.html](http://oldhillcode.com/music.html)
 
 work in progress!
 =================
