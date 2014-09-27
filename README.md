@@ -5,8 +5,6 @@ Resident Advisor recommended music getter... don't miss awesome new tunes!
 
 It's like an unofficial "API" for RA's recommendations page.
 
-Sample project at [oldhillcode.com/music.html](http://oldhillcode.com/music.html)
-
 
 wat
 =================
